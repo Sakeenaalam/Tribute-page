@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #dfdcdc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.avatar {
+    width: 95%;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+main {
+    margin-bottom: 30px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+blockquote {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+}
